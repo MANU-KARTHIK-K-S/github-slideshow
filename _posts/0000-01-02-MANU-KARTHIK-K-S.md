@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**I AM MANU KARTHIK K S**
 Use the left arrow to go back!
